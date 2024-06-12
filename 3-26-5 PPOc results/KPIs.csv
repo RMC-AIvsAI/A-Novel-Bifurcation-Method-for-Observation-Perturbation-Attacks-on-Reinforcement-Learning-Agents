@@ -1,0 +1,10 @@
+cost_function,baseline,untargeted_binary_myPGD_03_mask_time_REscale_solar_and_consumption_eps_clipped_adv_obs
+annual_peak_average,1.0,1.0
+carbon_emissions_total,0.8589463935812541,0.9772488939700373
+cost_total,0.8137059576458006,0.9696565925525995
+daily_one_minus_load_factor_average,7869.833697378337,1.0163263048632714
+daily_peak_average,0.8914214653074561,0.9848286123058229
+electricity_consumption_total,0.8743575386801745,0.9783494373461235
+monthly_one_minus_load_factor_average,0.9893915345841032,0.9964805477073749
+ramping_average,0.9426702276964324,1.01070125939655
+zero_net_energy,1.0769633219454002,1.0309233779731233

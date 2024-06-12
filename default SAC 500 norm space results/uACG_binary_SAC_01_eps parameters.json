@@ -1,0 +1,1 @@
+{"loss_type": null, "eps": 0.01, "eps_step": 0.02, "batch_size": 1, "nb_random_init": 50, "max_iter": 20, "norm": "inf", "verbose": false}

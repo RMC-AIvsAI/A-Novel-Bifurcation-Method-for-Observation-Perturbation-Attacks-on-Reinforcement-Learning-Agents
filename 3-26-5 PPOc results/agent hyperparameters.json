@@ -1,0 +1,1 @@
+{"gae_lambda": 0.9639143359823201, "batch_size": 64, "clip_range_vf": null, "ent_coef": 1.5635546620789673e-05, "gamma": 0.9062274459056439, "learning_rate": 8.377741144413337e-05, "n_epochs": 8, "n_steps": 512, "target_kl": null, "vf_coef": 0.5}
