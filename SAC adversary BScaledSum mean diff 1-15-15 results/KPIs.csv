@@ -1,0 +1,10 @@
+cost_function,baseline PPO 500 agent
+annual_peak_average,1.2583810644273032
+carbon_emissions_total,0.9588865759696
+cost_total,0.9182770583108588
+daily_one_minus_load_factor_average,1.1212648128998957
+daily_peak_average,1.1236635588584638
+electricity_consumption_total,0.9562281869265357
+monthly_one_minus_load_factor_average,1.02048638968053
+ramping_average,1.4545817235616225
+zero_net_energy,1.1127876467621856
